@@ -8,3 +8,10 @@
 
 # Output: 3
 # ```
+
+a,b = list(map(int, input().split()))
+n = a * b
+print(9 if n % 9 == 0 else n % 9)
+
+# Time Complexity - O(1)
+# Space Complexity - O(1)
