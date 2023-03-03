@@ -1,1 +1,19 @@
-> My Programming Codes which I submitted in ByteXL Assesments
+## My Programming Codes which I submit in ByteXL Assesments
+
+|S. No|Date|Question|Solved|Navigate|
+|---|---|---|---|---|
+|1|27 Feb|No of Different Arrays|No|[Problem](../Coding-Assesments/1.%20No%20of%20Different%20Arrays.py)|
+|2|27 Feb|Fibonacci Series|Yes|[Solution](../Coding-Assesments/2.%20Fibonacci%20Series.py)|
+|3|27 Feb|Sum and Difference|Yes|[Solution](../Coding-Assesments/3.%20Sum%20and%20Difference%20using%20Pointers.py)|
+|4|28 Feb|Magical Palindrome|No|[Problem](../Coding-Assesments/4.%20Magical%20Palindrome.py)|
+|5|28 Feb|Student Details|Yes|[Solution](../Coding-Assesments/5.%20Student%20Details.py)|
+|6|28 Feb|Pairwise Union Sets|Partial|[Problem](../Coding-Assesments/6.%20Pairwise%20Union%20Set.py)|
+|7|1 Mar|Find Element in array|Yes|[Solution](../Coding-Assesments/7.%20Element%20in%20array.py)|
+|8|1 Mar|Convert Hours, Mins to Mins|Yes|[Solution](../Coding-Assesments/8.%20Hours%20Mins%20to%20Mins.py)|
+|9|1 Mar|Print Array in Rev Order|Yes|[Solution](../Coding-Assesments/9.%20Print%20Array%20in%20Rev%20Order.py)|
+|10|2 Mar|Word Pool|Yes|[Solution](../Coding-Assesments/10.%20Word%20Pool.py)|
+|11|2 Mar|If Else|Yes|[Solution](../Coding-Assesments/11.%20If%20Else.py)|
+|12|2 Mar|Super Digit|Yes|[Solution](../Coding-Assesments/12.%20Super%20Digit.py)|
+|13|3 Mar|Perfect String|Yes|[Solution](../Coding-Assesments/13.%20Perfect%20String.py)|
+|14|3 Mar|Print Hash|Yes|[Solution](../Coding-Assesments/14.%20Print%20Hash.py)|
+|15|3 Mar|Student Queries|Yes|[Solution](../Coding-Assesments/15.%20Student%20Queries.py)|
