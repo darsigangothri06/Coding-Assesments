@@ -17,3 +17,6 @@
 |13|3 Mar|Perfect String|Yes|[Solution](./13.%20Perfect%20String.py)|
 |14|3 Mar|Print Hash|Yes|[Solution](./14.%20Print%20Hash.py)|
 |15|3 Mar|Student Queries|Yes|[Solution](./15.%20Student%20Queries.py)|
+|16|4 Mar|Age of Person|Yes|[Solution](./16.%20Age%20of%20Person.py)|
+|17|4 Mar|Division using Exceptions|Yes|[Solution](./17.%20Division%20using%20Exceptions.py)|
+|18|4 Mar|Power using Exception|Yes|[Solution](./18.%20Power%20using%20Exception.py)|
